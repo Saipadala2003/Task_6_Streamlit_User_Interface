@@ -36,6 +36,14 @@ predictions.
 - Display prediction confidence
 - Display prediction probabilities
 
+## Dataset
+
+MNIST Handwritten Digit Dataset:
+https://www.tensorflow.org/datasets/catalog/mnist
+
+The MNIST dataset contains 28 × 28 grayscale images of handwritten
+digits from 0 to 9 and is used for handwritten digit classification.
+
 ## How to Run
 
 Install the required libraries:
